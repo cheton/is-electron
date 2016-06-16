@@ -4,8 +4,10 @@
   "description": "Detect if running in Electron.",
   "homepage": "https://github.com/cheton/is-electron",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
-    "prepublish": "npm test && npm run build",
     "test": "tap --coverage test/*.js",
     "coveralls": "tap --coverage --coverage-report=text-lcov test/*.js | node_modules/.bin/coveralls"
   },
