@@ -7,7 +7,7 @@ Detect if running in Electron.
 ## Installation
 
 ```bash
-npm install --save is-electron
+npm install --save @cheton/is-electron
 ```
 
 ## Usage
