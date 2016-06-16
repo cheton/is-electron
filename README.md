@@ -15,7 +15,7 @@ npm install --save @cheton/is-electron
 ```js
 import isElectron from '@cheton/is-electron';
 
-console.log(isElectron);
+console.log(isElectron());
 ```
 
 ## License

@@ -10,4 +10,4 @@ function isElectron() {
     return false;
 }
 
-module.exports = isElectron();
+module.exports = isElectron;
