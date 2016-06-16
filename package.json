@@ -1,5 +1,5 @@
 {
-  "name": "is-electron",
+  "name": "@cheton/is-electron",
   "version": "0.1.0",
   "description": "Detect if running in Electron.",
   "homepage": "https://github.com/cheton/is-electron",
