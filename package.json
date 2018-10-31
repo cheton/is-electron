@@ -4,8 +4,9 @@
   "description": "Detect if running in Electron.",
   "homepage": "https://github.com/cheton/is-electron",
   "main": "index.js",
+  "types": "index.d.ts",
   "files": [
-    "index.js"
+    "index.d.ts"
   ],
   "scripts": {
     "test": "tap --coverage test/*.js",
