@@ -1,3 +1,1 @@
-declare module "isElectron" {
-  export function isElectron(): boolean;
-}
+export default function isElectron(): boolean;
