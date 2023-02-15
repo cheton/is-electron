@@ -1,2 +1,2 @@
-function isElectron (): boolean
+declare function isElectron (): boolean
 export = isElectron
