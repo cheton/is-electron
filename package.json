@@ -1,6 +1,6 @@
 {
   "name": "is-electron",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Detect if running in Electron.",
   "homepage": "https://github.com/cheton/is-electron",
   "main": "index.js",
@@ -29,7 +29,6 @@
     "tap": "^5.7.2"
   },
   "nyc": {
-    "exclude": [
-    ]
+    "exclude": []
   }
 }
